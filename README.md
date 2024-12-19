@@ -1,4 +1,4 @@
-# InboxIQ Ai
+# Evidhi: InboxIQ Ai
 
 ## Next-Generation AI-Powered SaaS Platform with scalable business model
 
