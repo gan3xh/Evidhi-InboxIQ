@@ -4,6 +4,17 @@
 
 InboxIQ Ai is a cutting-edge SaaS (Software as a Service) platform that allows clients to create a single, centralized chatbot that can be easily integrated into any website with a simple code snippet. This saves time and costs by eliminating the need for multiple chatbots. Additionally, it includes built-in chatbot training and offers real-time support.
 
+![evidhi1](https://github.com/user-attachments/assets/124a2233-752e-4fb1-aaea-0d2b19a38e2d)
+
+
+![evidhi2](https://github.com/user-attachments/assets/97c8e92c-1a32-4af0-8068-a8af0e417b68)
+
+![ev1](https://github.com/user-attachments/assets/99c0e8d5-fa14-4556-b1ae-569ed73210e6)
+
+![evidhimob1](https://github.com/user-attachments/assets/b90cd3f3-5799-43ea-b833-aa05845b51ed)
+
+![evidhimob3](https://github.com/user-attachments/assets/ed5bc203-5327-4f5c-bff0-cf16af4505f4)
+
 ## Technical Stack Highlights
 
 - **Framework**: Next.js 14 with React 18
