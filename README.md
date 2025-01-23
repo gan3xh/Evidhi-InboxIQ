@@ -11,7 +11,7 @@ InboxIQ Ai is a cutting-edge SaaS (Software as a Service) platform that allows c
 
 ![ev1](https://github.com/user-attachments/assets/99c0e8d5-fa14-4556-b1ae-569ed73210e6)
 
-![evidhimob1](https://github.com/user-attachments/assets/b90cd3f3-5799-43ea-b833-aa05845b51ed)
+
 
 ![Screenshot 2025-01-24 011036](https://github.com/user-attachments/assets/97488cc1-562e-4e02-8cb8-7a30cab6015a)
 ![Screenshot 2025-01-24 011203](https://github.com/user-attachments/assets/0d55b59f-3378-496a-bf5e-95c9ce3a169d)
